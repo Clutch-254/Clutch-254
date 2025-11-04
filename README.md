@@ -3,7 +3,7 @@
 ![hello wolrd gif](https://github.com/user-attachments/assets/13b6de4c-b764-40ae-a729-fd5ae8a4d4d6)
 
 
-I'm Matthew Bethwel Tumaini , a passionate developer on a coding journey! 💻✨
+I'm Matthew Bethwel Tumaini , a passionate developer and aspiring data scientist on a coding journey! 💻✨
 
 • 📱 Flutter & Dart developer creating beautiful mobile experiences
 
